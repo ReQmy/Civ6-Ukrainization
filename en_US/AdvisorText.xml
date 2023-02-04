@@ -2,7 +2,7 @@
 <GameData>
 	<BaseGameText>
 		<Row Tag="LOC_TUTORIAL_MAP_NAME">
-			<Text>Tutorial Map</Text>
+			<Text>Навчальна мапа</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_MAP_DESCRIPTION">
 			<Text>Map used exclusively for the tutorial.</Text>
