@@ -110,7 +110,7 @@
 			<Text>Тип місцевості</Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_CONTINENT">
-			<Text>Континенти</Text>
+			<Text>Континент</Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_RIVERS">
 			<Text>Річки</Text>
