@@ -8,7 +8,7 @@
 			<Text>Map used exclusively for the tutorial.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_DAWN_OF_CIVILIZATION_NAME">
-			<Text>Dawn of Civilization</Text>
+			<Text>Світанок цивілізації</Text>
 		</Row>
 		<Row Tag="LOC_TECH_DAWN_OF_CIVILIZATION_DESCRIPTION">
 			<Text>Prerequisite knowledge for the dawn of civilization</Text>
