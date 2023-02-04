@@ -223,7 +223,7 @@
 		</Row>
 
 		<Row Tag="LOC_WORLDBUILDER_RULESET_TT">
-			<Text>Встановлює для якого Набору правил ця мапа зроблена.</Text>
+			<Text>Встановлює для якого набору правил ця мапа зроблена.</Text>
 		</Row>
 
 		<Row Tag="LOC_WORLDBUILDER_SCRIPT_TT">
