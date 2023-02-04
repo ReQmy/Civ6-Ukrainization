@@ -5,25 +5,25 @@
 			<Text>Технології</Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_TAB_CIVICS">
-			<Text>Civics</Text>
+			<Text>Культура</Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_TAB_CITIES">
 			<Text>Міста</Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_TAB_UNITS">
-			<Text>Units</Text>
+			<Text>Одиниці</Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_TAB_GENERAL">
-			<Text>General</Text>
+			<Text>Основне</Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_TAB_DISTRICTS">
-			<Text>Districts</Text>
+			<Text>Райони</Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_TAB_BUILDINGS">
-			<Text>Buildings</Text>
+			<Text>Будівлі</Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_TAB_MOD">
-			<Text>Dependencies</Text>
+			<Text>Залежності</Text>
 		</Row>
 		
 		<Row Tag="LOC_WORLDBUILDER_TAB_TEXT">
@@ -31,147 +31,147 @@
 		</Row>
 
 		<Row Tag="LOC_WORLDBUILDER_BUTTON_ADD_PLAYER">
-			<Text>Add Player</Text>
+			<Text>Додати гравця</Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_BUTTON_ADD_AI_PLAYER">
-			<Text>Add AI Player</Text>
+			<Text>Додати бота</Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_BUTTON_REMOVE_PLAYER">
-			<Text>Remove Player</Text>
+			<Text>Видалити гравця</Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_BUTTON_ADD_CITY">
-			<Text>Add City</Text>
+			<Text>Додати місто</Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_BUTTON_REMOVE_CITY">
-			<Text>Remove City</Text>
+			<Text>Видалити місто</Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_PILLAGED">
-			<Text>Pillaged</Text>
+			<Text>Розграбовано</Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_GOLD">
-			<Text>Gold</Text>
+			<Text>Золото</Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_FAITH">
-			<Text>Faith</Text>
+			<Text>Віра</Text>
 		</Row>		
 		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_GARRISON_DAMAGE">
-			<Text>Garrison Damage</Text>
+			<Text>Внутрішні пошкодження </Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_OUTER_DAMAGE">
-			<Text>Outer Damage</Text>
+			<Text>Зовнішні пошкодження</Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_POPULATION">
-			<Text>Population</Text>
+			<Text>Населення</Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_TERRAIN">
-			<Text>Terrain</Text>
+			<Text>Рельєф</Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_FEATURE">
-			<Text>Feature</Text>
+			<Text>Тип місцевості</Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_FEATURE_DIRECTION">
-			<Text>Feature Rotation</Text>
+			<Text>Напрямок</Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_RESOURCE">
-			<Text>Resource</Text>
+			<Text>Ресурси</Text>
 		</Row>		
 		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_RESOURCE_AMOUNT">
-			<Text>Resource Amount</Text>
+			<Text>Кількість ресурсів</Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_IMPROVEMENT">
-			<Text>Improvement</Text>
+			<Text>Покращення</Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_IMPROVEMENT_PILLAGED">
-			<Text>Improvement Pillaged</Text>
+			<Text>Покращення розграбовано</Text>
 		</Row>
     <Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_DISTRICT">
-      <Text>District</Text>
+      <Text>Район</Text>
     </Row>
     <Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_DISTRICT_PILLAGED">
-      <Text>District Pillaged</Text>
+      <Text>Район розграбовано</Text>
     </Row>
 		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_ROUTE">
-			<Text>Route</Text>
+			<Text>Дорога</Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_ROUTE_PILLAGED">
-			<Text>Route Pilaged</Text>
+			<Text>Дорога розграбовано</Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_OWNER">
-			<Text>Owner</Text>
+			<Text>Власник</Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_LOWLAND_TYPE">
-			<Text>Lowland Type</Text>
+			<Text>Тип низовини</Text>
 		</Row>
 
 		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_TERRAIN">
-			<Text>Terrain</Text>
+			<Text>Рельєф</Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_FEATURES">
-			<Text>Features</Text>
+			<Text>Тип місцевості</Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_CONTINENT">
-			<Text>Continent</Text>
+			<Text>Континенти</Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_RIVERS">
-			<Text>Rivers</Text>
+			<Text>Річки</Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_CLIFFS">
-			<Text>Cliffs</Text>
+			<Text>Скелі</Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_RESOURCES">
-			<Text>Resources</Text>
+			<Text>Ресурси</Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_CITIES">
-			<Text>Cities</Text>
+			<Text>Міста</Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_DISTRICTS">
-			<Text>Districts</Text>
+			<Text>Райони</Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_BUILDINGS">
-			<Text>Buildings</Text>
+			<Text>Будівлі</Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_UNITS">
-			<Text>Units</Text>
+			<Text>Одиниці</Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_IMPROVEMENTS">
-			<Text>Improvements</Text>
+			<Text>Покращення</Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_ROUTES">
-			<Text>Routes</Text>
+			<Text>Дорога</Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_START_POSITIONS">
-			<Text>Start Positions</Text>
+			<Text>Стартова позиція</Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_OWNER">
-			<Text>Owner</Text>
+			<Text>Власник</Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_SET_VISIBILITY">
-			<Text>Terrain Visibility</Text>
+			<Text>Видимість місцевосці</Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_GOODY_HUTS">
-			<Text>Tribal Villages</Text>
+			<Text>Хуторці</Text>
 		</Row>
 
 		<Row Tag="LOC_WORLD_BUILDER_MAP_EDITOR_TT">
-			<Text>Map Details and Text</Text>
+			<Text>Подробиці мати та текст</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_BUILDER_PLAYER_EDITOR_TT">
-			<Text>Player Editor</Text>
+			<Text>Редактор гравця</Text>
 		</Row>
 
 		<Row Tag="LOC_WORLD_BUILDER_PLACEMENT_HELP">
-			<Text>Left click to place, right click to remove, right click drag to paint. Press CTRL-Z to undo a placement, CTRL-Y to redo.</Text>
+			<Text>Натисніть ЛКМ, щоб розмістити; ПКМ, щоб прибрати; затисніть ПКМ, щоб малювати. Натисніть CTRL-Z, щоб скасувати розміщення; CTRL-Y, щоб повторити.</Text>
 		</Row>
 
 		<Row Tag="LOC_WORLD_BUILDER_NO_PLOT_SELECTED_HELP">
-			<Text>No plot selected</Text>
+			<Text>Ділянку не вибрано</Text>
 		</Row>
 
 		<Row Tag="LOC_WORLD_BUILDER_PLACEMENT_TT">
-			<Text>Lets you paint the map</Text>
+			<Text>Дозволяє малювати на мапі</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_BUILDER_PLOT_TT">
-			<Text>Gives finer-grained control over each plot</Text>
+			<Text>Дає детальний контроль над кожною ділянкою</Text>
 		</Row>
 
 		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_ID">
@@ -179,75 +179,75 @@
 		</Row>
 
 		<Row Tag="LOC_WORLDBUILDER_GENERATE_NEW_ID">
-			<Text>Generate New ID...</Text>
+			<Text>Згенерувати новий ID...</Text>
 		</Row>
 
 		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_WIDTH">
-			<Text>Width</Text>
+			<Text>Ширина</Text>
 		</Row>
 		
 		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_HEIGHT">
-			<Text>Height</Text>
+			<Text>Висота</Text>
 		</Row>
 
 		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_RULESET">
-			<Text>Ruleset</Text>
+			<Text>Набір правил</Text>
 		</Row>
 
 		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_MAP_SCRIPT">
-			<Text>Map Script</Text>
+			<Text>Скрипт мапи</Text>
 		</Row>
 
 		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_IS_MOD">
-			<Text>Package Map as a Mod</Text>
+			<Text>Запакувати мапу як мод</Text>
 		</Row>
 
 		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_IS_MOD_TT">
-			<Text>If checked, the World Builder map is a self-contained Mod and can be used as a Map Type when starting a game.  If not checked, the map is assumed to be used as part of a larger Mod.</Text>
+			<Text>Якщо відмічено, то мапа Будівництва Світу буде самостійним модом і може бути обраним як Тип мапи під час запуску гри. А якщо ні, то мапа використовуватиметься як частина більшого моду.</Text>
 		</Row>
 
 		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_REFERENCE_MAP">
-			<Text>Reference Map</Text>
+			<Text>Шаблон</Text>
 		</Row>
 
 		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_REFERENCE_ALPHA">
-			<Text>Reference Alpha</Text>
+			<Text>Прозорість шаблону</Text>
 		</Row>
 
 		<Row Tag="LOC_WORLDBUILDER_REFERENCE_MAP_LOADED">
-			<Text>Reference map loaded successfully</Text>
+			<Text>Успішне завантаження шаблону</Text>
 		</Row>
 
 		<Row Tag="LOC_WORLDBUILDER_REFERENCE_MAP_NOT_FOUND">
-			<Text>Reference map file not found</Text>
+			<Text>Файл шаблону не знайдено</Text>
 		</Row>
 
 		<Row Tag="LOC_WORLDBUILDER_RULESET_TT">
-			<Text>Sets what ruleset this map is made for.</Text>
+			<Text>Встановлює для якого Набору правил ця мапа зроблена.</Text>
 		</Row>
 
 		<Row Tag="LOC_WORLDBUILDER_SCRIPT_TT">
-			<Text>Sets what LUA file to use to generate this map, if any.</Text>
+			<Text>Встановлює який LUA файл використовуватиметься для генерації цієї мапи, у разі наявності.</Text>
 		</Row>
 
 		<Row Tag="LOC_WORLDBUILDER_REFERENCE_MAP_TT">
-			<Text>Sets a PNG file to overlay translucently over World Builder's map.</Text>
+			<Text>Встановлює PNG файл, що напівпрозоро накладатиметься над мапою Будівництва Світу.</Text>
 		</Row>
 
 		<Row Tag="LOC_WORLDBUILDER_REFERENCE_ALPHA_TT">
-			<Text>Sets how much you see of the overlay vs. the map.[NEWLINE]0.0 shows all map and no overlay, and 1.0 shows all overlay and no map.[NEWLINE]0.5 is the starting value.</Text>
+			<Text>Встановлює наскільки прозорою буде зображення шаблону.[NEWLINE]0.0 показує мапу без накладання зображення; 1.0 показує зображення без мапи.[NEWLINE]0.5 стандартне значення.</Text>
 		</Row>
 
 		<Row Tag="LOC_WORLDBUILDER_REFERENCE_ALPHA_SET">
-			<Text>New reference map alpha set</Text>
+			<Text>Нове значення прозорості шаблону мапи встановлено</Text>
 		</Row>
 
 		<Row Tag="LOC_WORLDBUILDER_REFERENCE_ALPHA_BAD">
-			<Text>Alpha must be between 0.0 and 1.0</Text>
+			<Text>Значення прозорості має бути від 0.0 до 1.0</Text>
 		</Row>
 
 		<Row Tag="LOC_WORLDBUILDER_REFERENCE_ALPHA_BAD_2">
-			<Text>Alpha must be a number</Text>
+			<Text>Значення прозорості має бути числом</Text>
 		</Row>
 
 		<Row Tag="LOC_WORLDBUILDER_DEFAULT_MAP_NAME">
