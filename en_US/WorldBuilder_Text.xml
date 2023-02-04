@@ -94,7 +94,7 @@
 			<Text>Дорога</Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_ROUTE_PILLAGED">
-			<Text>Дорога розграбовано</Text>
+			<Text>Дорогу розграбовано</Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_OWNER">
 			<Text>Власник</Text>
@@ -137,7 +137,7 @@
 			<Text>Покращення</Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_ROUTES">
-			<Text>Дорога</Text>
+			<Text>Дороги</Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_START_POSITIONS">
 			<Text>Стартова позиція</Text>
