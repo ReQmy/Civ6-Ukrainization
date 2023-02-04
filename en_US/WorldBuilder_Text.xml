@@ -2,7 +2,7 @@
 <GameData>
 	<EnglishText>
 		<Row Tag="LOC_WORLDBUILDER_TAB_TECHS">
-			<Text>Techs</Text>
+			<Text>Технології</Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_TAB_CIVICS">
 			<Text>Civics</Text>
