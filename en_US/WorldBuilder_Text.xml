@@ -27,7 +27,7 @@
 		</Row>
 		
 		<Row Tag="LOC_WORLDBUILDER_TAB_TEXT">
-			<Text>Text</Text>
+			<Text>Текст</Text>
 		</Row>
 
 		<Row Tag="LOC_WORLDBUILDER_BUTTON_ADD_PLAYER">
