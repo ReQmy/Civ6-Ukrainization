@@ -239,130 +239,130 @@
 			<Text>Здоров'я цієї одиниці дуже низьке, тому вона може бути втрачена. Дозвіл одиниці зробити перерву від бою та відпочити допоможе їй з часом відновитися.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_12">
-			<Text>It is best to use caution when moving close to enemy units. Doing so will often force the unit to be in the enemy's 'zone of control', restricting its movement.</Text>
+			<Text>Краще діяти обережно, пересуваючись поблизу ворожих одиниць. Вона може перебувати в «зоні контролю» ворога, обмежуючи рух.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_13">
-			<Text>My liege, our city would do well with some farms or other improvements. I suggest we train a Builder soon.</Text>
+			<Text>Нашому місту було б добре, якщо б ми мали більше ферм чи інших покращень. Я пропоную незабаром навчити Будівельників.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_14">
-			<Text>Our Builders have been idle. Perhaps we should direct their efforts to improving the lands around our city.</Text>
+			<Text>Наші Будівельники простоювали. Можливо, варто спрямувати їхні зусилля на благоустрій територій навколо нашого міста.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_15">
-			<Text>Our capital flourishes! But I think it is time that we begin establishing roots elsewhere. Perhaps we should train a Settler.</Text>
+			<Text>Наша столиця розквітає! Але я думаю, що настав час для того, щоб ми почали закладати коріння в іншому місці. Можливо, нам варто виділити Поселенців.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_16">
-			<Text>My liege, we have an Envoy at our disposal. We can use the Envoy to gain favor with a city-state. Becoming friendly with a city-state neighbor can be greatly beneficial to our civilization.</Text>
+			<Text>У нашому розпорядженні є посланець. Ми можемо використати його, щоб отримати прихильність міста-держави. Стати дружніми з сусіднім з містом-державою може бути дуже корисним для нашої цивілізації.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_17">
-			<Text>Our City-State neighbors have made a request of us. If we can impress them, I think they will reward us handsomely.</Text>
+			<Text>Наші сусіди з міста-держави звернулися до нас із проханням. Якщо ми зможемо вразити їх, я думаю, вони щедро винагородять нас.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_18">
-			<Text>I'm afraid I must report that we are bankrupt. It is imperative that we do whatever we can to ease ourselves of this debt. May I suggest we disband some of our military?</Text>
+			<Text>Боюся, я маю повідомити, що ми банкроти. Нам необхідно зробити все можливе, щоб погасити цей борг. Чи можу я запропонувати нам розформувати частину наших військ?</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_19">
-			<Text>Your grace, I must warn you that some of the improved lands around our city have been pillaged. We should find those responsible and ensure no more damage can be done.</Text>
+			<Text>Мушу попередити вас, що деякі поліпшені землі навколо нашого міста були пограбовані. Ми повинні знайти відповідальних і переконатися, що більше не буде завдано шкоди.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_20">
-			<Text>We have recently gained advanced knowledge in city planning. Creating districts in our cities can be much more powerful and lucrative than simple improvements like Farms and Mines.</Text>
+			<Text>Нещодавно ми отримали передові знання з планування міста. Створення районів у наших містах може бути набагато потужнішим і прибутковішим, ніж просте покращення по типу ферм та шахт.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_21">
-			<Text>Our military has learned the way of combining two military units into larger scale Corps. These Corps units are much more powerful than their singular counterparts.</Text>
+			<Text>Наші військові навчилися об’єднувати дві військові одиниці у більший корпус. Такі одиниці разом набагато потужніші, ніж їхні окремі аналоги.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_22">
-			<Text>Our military now is trained in the way of combining three military units into a single Army, much larger and more powerful than a Corps unit.</Text>
+			<Text>Наші військові зараз навчені об’єднувати три військові одиниці в одну Армію, набагато більшу та потужнішу, ніж Корпус.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_23">
-			<Text>Your Grace, we have obtained greater knowledge in the art of building static fortifications. Building Walls around our cities will not only make them stronger against a foreign invader, but will also allow them to bombard nearby enemies.</Text>
+			<Text>Ми отримали більше знань у мистецтві будівництва статичних укріплень. Будівництво стін навколо наших міст не тільки зробить їх сильнішими проти іноземних загарбників, але й дозволить їм обстрілювати ворогів поблизу.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_24">
-			<Text>Your grace! The enemy is at our gates, and this city is surrounded and under siege. Supplies and food cannot get through, and our city cannot heal its wounds. It is paramount that we break this encirclement.</Text>
+			<Text>Ворог біля наших воріт, а це місто взято в облогу. Припаси та їжа не можуть пройти, і наше місто не може залікувати свої рани. Вкрай важливо, щоб ми позбулися цього оточення.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_25">
-			<Text>An enemy is in range of our city. Order the city garrison to conduct a ranged attack against the invaders.</Text>
+			<Text>Ворог в зоні досяжності нашого міста. Накажіть обстріляти загарбників.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_26">
-			<Text>It is important to keep a close eye on our neighbors, and our people may be able to help. Listen carefully, for they are sometimes privy to more information than we are.</Text>
+			<Text>Важливо уважно стежити за нашими сусідами, і наші люди можуть допомогти. Слухайте уважно, бо іноді вони більш проінформовані, ніж ми.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_27">
-			<Text>My liege, we are beginning to attract the attention of the Great People of the world. Of course, there are other leaders vying for their attention, too.</Text>
+			<Text>Ми починаємо привертати увагу Видатних Людей світу. Звичайно, є й інші лідери, які змагаються за їхню увагу.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_28">
-			<Text>The more specialized districts we construct, the more we will draw in specialized Great People to share their talents with our civilization. I advise that we continue to build these.</Text>
+			<Text>Чим більше спеціалізованих районів ми побудуємо, тим більше ми залучимо спеціалізованих Видатних Людей, щоб поділитися своїми талантами з нашою цивілізацією. Я раджу продовжувати будувати райони.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_29">
-			<Text>A famous artist is inspired by our civilization, and has come to our lands to create great works of art. I suggest we find somewhere to house these masterpieces immediately.</Text>
+			<Text>Відомий художник, натхненний нашою цивілізацією, приїхав на наші землі, щоб створити великі витвори мистецтва. Я пропоную негайно знайти місце, де розмістити ці шедеври.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_30">
-			<Text>This writer has been inspired by our civilization, and comes to our lands to create great works of writing. I suggest we find somewhere to house these masterpieces immediately.</Text>
+			<Text>Цей письменник був натхненний нашою цивілізацією, і прибув на наші землі, щоб створити чудові літературні твори. Я пропоную негайно знайти місце, де розмістити ці шедеври.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_31">
-			<Text>Our populace has attracted a Great Prophet to our lands! Send this most holy person to our Holy Site and rejoice, for the time has come to found a religion for ourselves.</Text>
+			<Text>Наше населення привернуло на наші землі Великого Пророка! Відправте цю найсвятішу людину до нашої Святині і радійте, бо настав час заснувати для себе релігію.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_32">
-			<Text>This musician is inspired by our civilization, and has come to our land to create great musical works. I suggest we find somewhere to house these masterpieces immediately.</Text>
+			<Text>Цей музикант був натхненний нашою цивілізацією, і приїхав на нашу землю, щоб створити великі музичні твори. Я пропоную негайно знайти місце, де розмістити ці шедеври.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_33">
-			<Text>Our civilization's attention to the naval arm of our military has given rise to a Great Admiral among our ranks. When deployed wisely among our ships we are sure to have a distinct advantage in battle.</Text>
+			<Text>Увага нашої цивілізації до військово-морської частини нашої армії породила в наших рядах Видатного Флотоводця. Якщо мудро розташувати наші кораблі, ми обов’язково матимемо явну перевагу в бою.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_34">
-			<Text>Our civilization's dedication to military affairs has given rise to a Great General among our troops. When used wisely in the field, generals can change the tide of battle in our favor.</Text>
+			<Text>Відданість нашої цивілізації військовій справі призвела до появи Видатного Полководця серед наших військ. Якщо розумно використовувати на полі бою, можуть змінити хід битви на нашу користь.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_35">
-			<Text>A great merchant has come to our civilization! Each one has a unique talent which will help our economy flourish.</Text>
+			<Text>До нашої цивілізації прийшов видатний купець! Такі мають унікальні таланти, що допоможуть нашій економіці процвітати.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_36">
-			<Text>Our dedication to the ways of science has attracted a great scientist to our civilization! I am certain we will be able to use them to benefit future scientific developments.</Text>
+			<Text>Наша відданість науці привернула до нашої цивілізації видатного науковця! Я впевнений, що ми зможемо використати його на користь майбутніх наукових розробок.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_37">
-			<Text>Constructing wonders of the world not only is a remarkable display of our empire's greatness, they have other benefits as well. Remember, other civilizations may also be competing in this endeavor, and there can only be one of each type in the world.</Text>
+			<Text>Будівництво див світу є не тільки чудовим проявом величі нашої імперії, але й має інші переваги. Пам’ятайте, що інші цивілізації також можуть змагатися в цій справі, і у світі може бути лише одне диво кожного типу.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_38">
-			<Text>Just as our citizens have faith in your leadership, so they are beginning to have faith in a higher power. I think it is wise to cultivate this new way of thinking - perhaps there is some benefit to be gained.</Text>
+			<Text>Оскільки наші громадяни вірять у ваше лідерство, вони починають вірити у вищу силу. Я вважаю, що було б мудро культивувати цей новий спосіб мислення – можливо, від цього можна отримати певну користь.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_39">
-			<Text>The number of faithful has grown, and it is time for us to define our beliefs. Let us choose a pantheon to worship.</Text>
+			<Text>Кількість віруючих зросла, і нам час визначитися з нашими переконаннями. Давайте виберемо пантеон для поклоніння.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_40">
-			<Text>My liege, we have the ability to train religious missionaries to begin spreading our great religion to foreign lands.</Text>
+			<Text>У нас є можливість навчити релігійних місіонерів, щоб почати поширювати нашу велику релігію в інших країнах.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_41">
-			<Text>Your majesty, I believe that we may benefit from recruiting an apostle to spread our religion. These holy people are quite powerful in the ways of conversion.</Text>
+			<Text>Ваша величність, я вважаю, що нам може бути корисно найняти апостола для поширення нашої релігії. Ці святі люди досить сильні у способах навернення.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_42">
-			<Text>All other religions in the world are a threat to our faith. We can recruit Inquisitors to purge the heretics from our cities.</Text>
+			<Text>Усі інші релігії світу є загрозою нашій вірі. Ми можемо залучити інквізиторів, щоб вичистити наші міста від єретиків.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_43">
-			<Text>Your Excellency, I feel it is time to build some Neighborhoods for our growing populous. We should build these on our most beautiful lands - near natural wonders, or perhaps by the Coast.</Text>
+			<Text>Я вважаю, що настав час побудувати кілька околиць для нашої зростаючої кількості населення. Ми повинні побудувати їх на наших найкрасивіших землях — поблизу природних чудес або, можливо, на узбережжі.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_44">
-			<Text>My liege, all of our military has been destroyed and we are completely defenseless. Training military units is of utmost importance if we are to survive.</Text>
+			<Text>Усе наше військо було знищено, і ми повністю беззахисні. Підготовка військових одиниць є надзвичайно важливою, якщо ми хочемо вижити.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_45">
-			<Text>Our explorers have spotted another friendly Tribal Village. I suggest we send a Scout to investigate.</Text>
+			<Text>Наші дослідники помітили ще один дружній Хуторець. Я пропоную відправити Розвідника для розслідування.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_46">
-			<Text>Your Majesty, keep your allies close and your enemies closer. We are now able to recruit a Spy who could help us better understand what it is that our neighbors do… On a more covert level.</Text>
+			<Text>Тримайте своїх союзників близько, а ворогів ще ближче. Тепер ми можемо найняти шпигуна, який допоможе нам краще зрозуміти, чим займаються наші сусіди… На більш таємному рівні.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_50">
-			<Text>Some resources, like this one, can be harvested. This will remove the resource in exchange for an immediate gain.  But once it is removed, it will not come back.</Text>
+			<Text>Деякі ресурси, як цей, можна збирати. Це призведе до вилучення ресурсу в обмін на негайний прибуток. Але якщо його зібрати, він не повернеться.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_51">
-			<Text>We have discovered a City-State! Establishing diplomatic relations with them will surely be beneficial for our empire. Perhaps we should send them an envoy…</Text>
+			<Text>Ми знайшли місто-державу! Встановлення з ними дипломатичних стосунків, безумовно, буде вигідним для нашої імперії. Можливо, нам варто відправити до них посланця…</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_52">
-			<Text>There are several different types of City-States, and each may provide different benefits in return for our friendship. Our government, over time, will allow us to earn envoys to grow these relationships.</Text>
+			<Text>Є кілька різних типів міст-держав, і кожен може надавати різні переваги в обмін на нашу дружбу. Наш уряд з часом дозволить нам отримати посланців для розвитку цих відносин.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_53">
-			<Text>We have trained our first ranged unit, capable of hitting enemies from afar, while out of the range of hand-to-hand combat.</Text>
+			<Text>Ми навчили нашу першу одиницю дальнього бою, здатну вражати ворогів здалеку, перебуваючи поза зоною дії ближнього бою.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_54">
-			<Text>A siege unit! This will surely be useful if we choose to engage in a city attack.</Text>
+			<Text>Обложник! Такі, безумовно, будуть корисними, якщо ми вирішимо атакувати місто.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_55">
-			<Text>We are now skilled in the construction of walls to protect our cities. In addition to providing protection from invaders, they are also excellent vantage points to bombard enemies with ranged attacks.</Text>
+			<Text>Тепер ми вміємо будувати стіни для захисту наших міст. Окрім захисту від загарбників, вони також є чудовими оглядовими точками для обстрілу ворогів.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_56">
-			<Text>The enemy has surrounded the city and we are under siege. We must break this blockade or we will not be able to reinforce the garrison and repair our defenses.</Text>
+			<Text>Ворог оточив місто, воно в облозі. Ми повинні позбутися цього, інакше ми не зможемо підсилити гарнізон і відновити нашу оборону.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_57">
 			<Text>My liege, this city has great defenses. With enough force, and the right military, I think we can take it.</Text>
